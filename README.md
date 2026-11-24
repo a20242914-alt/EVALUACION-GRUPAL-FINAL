@@ -1,17 +1,12 @@
 # EVALUACION-GRUPAL-FINAL
 
-**Autocorrelación espacial y Mapa LISA de Argentina**
-Curso: Introducción a la Ciencia de Datos Espaciales
-
-**Integrantes:** (completar)
 
 ## Notebook
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19q5k0rcpKGw5EUdIh41VGTmj7KNir5gt)
 
-## Descripción
-
-Se analiza el **porcentaje de población sin cobertura de salud** en los **527 departamentos** de Argentina, para saber si los departamentos con mucha población sin cobertura están rodeados de otros en la misma situación (autocorrelación espacial).
+## Página web
+[Link Página Web](https://a20242914-alt.github.io/EVALUACION-GRUPAL-FINAL/)
 
 ## Datos
 
